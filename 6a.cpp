@@ -5,7 +5,7 @@
 using namespace std;
 
 double returnLarger(double a, double b)
-
+//reading largest numbers
 {
 	if (a >= b) {
 		return a;
@@ -23,7 +23,7 @@ int main()
 
 	double a, b, c, d, e, f, g;
 
-	
+	//fgdfgdfgdf
 
 	cout << "Enter seven numbers: ";
 	cin >> a >> b >> c >> d >> e >> f >> g;
